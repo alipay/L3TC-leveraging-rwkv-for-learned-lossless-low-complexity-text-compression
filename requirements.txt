@@ -1,0 +1,8 @@
+ipdb
+addict
+openpyxl
+pkuseg
+yapf
+sentencepiece
+thop
+tiktoken
