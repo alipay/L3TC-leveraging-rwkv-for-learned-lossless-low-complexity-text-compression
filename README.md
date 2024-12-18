@@ -40,3 +40,19 @@ python scripts/compressor.py \
 ```
 
 ## Citation
+
+If you use our work, please consider citing:
+```bibtex
+@article{,
+  title={L3TC: Leveraging RWKV for Learned Lossless Low-Complexity Text Compression},
+  author={Junxuan Zhang, Zhengxue Cheng (corresponding author), Yan Zhao, ShihaoWang, Dajiang Zhou, Guo Lu, Li Song},
+  journal={},
+  year={}
+}
+```
+
+## Contact
+If you have any questions, please create an issue on this repository or contact at junxuan.zjx@antgroup.com or zxcheng@sjtu.edu.cn.
+
+## Acknowledgements
+Our code is based on [BlinkDL](https://github.com/BlinkDL/RWKV-LM)
