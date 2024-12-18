@@ -45,7 +45,7 @@ If you use our work, please consider citing:
 ```bibtex
 @article{,
   title={L3TC: Leveraging RWKV for Learned Lossless Low-Complexity Text Compression},
-  author={Junxuan Zhang, Zhengxue Cheng (corresponding author), Yan Zhao, ShihaoWang, Dajiang Zhou, Guo Lu, Li Song},
+  author={Junxuan Zhang, Zhengxue Cheng (corresponding author), Yan Zhao, Shihao Wang, Dajiang Zhou, Guo Lu, Li Song},
   journal={},
   year={}
 }
