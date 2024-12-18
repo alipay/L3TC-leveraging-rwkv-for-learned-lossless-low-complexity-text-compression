@@ -46,8 +46,8 @@ If you use our work, please consider citing:
 @article{,
   title={L3TC: Leveraging RWKV for Learned Lossless Low-Complexity Text Compression},
   author={Junxuan Zhang, Zhengxue Cheng (corresponding author), Yan Zhao, Shihao Wang, Dajiang Zhou, Guo Lu, Li Song},
-  journal={},
-  year={}
+  journal={AAAI2025},
+  year={2025}
 }
 ```
 
