@@ -45,14 +45,14 @@ If you use our work, please consider citing:
 ```bibtex
 @article{,
   title={L3TC: Leveraging RWKV for Learned Lossless Low-Complexity Text Compression},
-  author={Junxuan Zhang, Zhengxue Cheng (corresponding author), Yan Zhao, Shihao Wang, Dajiang Zhou, Guo Lu, Li Song},
+  author={Junxuan Zhang, Zhengxue Cheng, Yan Zhao, Shihao Wang, Dajiang Zhou, Guo Lu, Li Song},
   journal={AAAI2025},
   year={2025}
 }
 ```
 
 ## Contact
-If you have any questions, please create an issue on this repository or contact at junxuan.zjx@antgroup.com or zxcheng@sjtu.edu.cn.
+If you have any questions, please create an issue on this repository or contact at junxuan.zjx@antgroup.com or zxcheng@sjtu.edu.cn (Corresponding Author).
 
 ## Acknowledgements
 Our code is based on [BlinkDL](https://github.com/BlinkDL/RWKV-LM)
