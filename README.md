@@ -1,6 +1,6 @@
 # L3TC: Leveraging RWKV for Learned Lossless Low-Complexity Text Compression [AAAI2025]
 
-Official pytorch implementation of the paper "L3TC: Leveraging RWKV for Learned Lossless Low-Complexity Text Compression".
+Official PyTorch implementation of the paper "L3TC: Leveraging RWKV for Learned Lossless Low-Complexity Text Compression".
 
 ## Abstract
 ![main figure](docs/main_fig.png)
