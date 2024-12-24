@@ -38,16 +38,22 @@ python scripts/compressor.py \
     --device cuda \
     --input_file "data/public_text_dataset/enwik9"
 ```
+## L3TC Pretrained Models
+
+The pretrained models of L3TC can be downloaded from [google drive](https://drive.google.com/file/d/1LibLdeHTi3Io0H-ZiYZ6AhYUYKUkOpXz/view?usp=drive_link).
 
 ## Citation
 
 If you use our work, please consider citing:
 ```bibtex
-@article{,
-  title={L3TC: Leveraging RWKV for Learned Lossless Low-Complexity Text Compression},
-  author={Junxuan Zhang, Zhengxue Cheng, Yan Zhao, Shihao Wang, Dajiang Zhou, Guo Lu, Li Song},
-  journal={AAAI2025},
-  year={2025}
+@misc{zhang2024l3tcleveragingrwkvlearned,
+      title={L3TC: Leveraging RWKV for Learned Lossless Low-Complexity Text Compression}, 
+      author={Junxuan Zhang and Zhengxue Cheng and Yan Zhao and Shihao Wang and Dajiang Zhou and Guo Lu and Li Song},
+      year={2024},
+      eprint={2412.16642},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2412.16642}, 
 }
 ```
 
